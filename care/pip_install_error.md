@@ -3,7 +3,7 @@
 - python目录 Python27\Lib\site-packages 建一个文件sitecustomize.py 
 - 写入：
 
->import sys 
+>import sys <br>
 >sys.setdefaultencoding('gb2312') 
 
 
